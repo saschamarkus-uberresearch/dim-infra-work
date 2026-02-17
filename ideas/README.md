@@ -4,9 +4,7 @@ This directory contains a collection of work-related project ideas for developme
 
 ## Current Ideas
 
-<!-- Ideas will be listed here as they are added -->
-
-Currently empty. Ideas will be added as they are identified.
+- [Example Project Idea](example-project-idea.md) - An example showing how to document project ideas
 
 ## Idea Template
 
